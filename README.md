@@ -1,15 +1,25 @@
-👋 Hello there! I'm Rishi, a passionate developer with a focus on Java Spring Boot and ReactJs. My journey includes freelancing at Connexo Asia Limited, where I crafted secure APIs and designed seamless web form file attachments. As a ReactJs Developer Intern at Venturing Digitally, I enhanced system performance through API integration and created a location service for the search box.
+# One-Click (Online Study and Freelancing Portal)
 
-🚀 My technical arsenal includes Java/J2EE, Spring Boot, ReactJs, HTML, CSS, JavaScript, and SQL Server. I recently earned a PG Diploma in Advance Computing, specializing in Algorithms, ReactJs, and Web Programming Technologies.
+One-Click is a dynamic online study and freelancing portal designed to streamline education. With three user roles - Admin, Tutor, and Student - the platform enables tutors to sell and upload topic-specific videos. Students can explore short clips, read teacher reviews, and access course prices effortlessly.
 
-🎓 Education:
+## Features:
 
-PG Diploma in Advance Computing, Infoway Technologies Pvt. Ltd., Pune
-Bachelor in Textile Engineering, Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore
-👨‍💻 Let's connect and explore the possibilities of collaboration and learning. Check out my repositories for a glimpse into my coding journey!
+- **Admin Empowerment:** Admin authorizes tutors to share educational content.
+- **Tutor Capabilities:** Tutors can upload and sell topic-specific videos.
+- **Student Access:** Students have the ability to view short clips, read teacher reviews, and check course prices.
 
-📧 Reach me at rishikumarmalviya@gmail.com | 📱 6265932891
+## Technologies:
 
-🌐 https://www.linkedin.com/in/rishi-malviya-632053195/
+- **Frontend:** ReactJs
+- **Backend:** Spring Boot, Java, J2EE
+- **Database:** MySql
+- **Web Technologies:** HTML, CSS, JavaScript
 
-Happy coding! 🚀
+## Project Setup:
+
+1. Clone the repository: `git clone [repository_link]`
+2. Navigate to the project directory: `cd One-Click`
+3. Install dependencies: `npm install` (for frontend) and `mvn clean install` (for backend)
+4. Run the application: `npm start` (for frontend) and `mvn spring-boot:run` (for backend)
+
+Feel free to explore and contribute to the project. Happy coding! 🚀
